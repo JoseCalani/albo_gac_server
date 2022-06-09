@@ -62,11 +62,11 @@ WSGI_APPLICATION = 'gac.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'gac',
-        'USER': 'jose',
-        'PASSWORD': '',
-        'HOST':'localhost',
-        'PORT': '',
+        'NAME': 'd82helnttd63co',
+        'USER': 'ppehknfodpfuaj',
+        'PASSWORD': '43e1432eac5631091d1690dcc04aac5577d7efe5b05c2a088b340b390aa83895',
+        'HOST':'ec2-52-73-184-24.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
